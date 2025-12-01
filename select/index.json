@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "All Falls Down",
+  "base_artist": "Alan Walker, Noah Cyrus, & Digital Farm Animals",
+  "createdAt": "2025-12-01T12:10:16.983678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker feat. Noah Cyrus, Digital Farm Animals & Juliander",
+      "has_synced": true,
+      "path": "select/01_All_Falls_Down_Alan_Walker_feat._Noah_Cyrus,_Digital_Farm_Animals_&_Juliander.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker;Noah Cyrus;Digital Farm Animals;Juliander",
+      "has_synced": true,
+      "path": "select/02_All_Falls_Down_Alan_Walker;Noah_Cyrus;Digital_Farm_Animals;Juliander.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Falls Down (Mixed)",
+      "artist": "Alan Walker",
+      "has_synced": false,
+      "path": "select/03_All_Falls_Down_(Mixed)_Alan_Walker.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Falls Down (feat. Juliander)",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/04_All_Falls_Down_(feat._Juliander)_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Machine Head",
+      "has_synced": true,
+      "path": "select/05_All_Falls_Down_Machine_Head.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Kanye West feat. Syleena Johnson",
+      "has_synced": true,
+      "path": "select/06_All_Falls_Down_Kanye_West_feat._Syleena_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "All Falls Down (feat. Syleena Johnson)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/07_All_Falls_Down_(feat._Syleena_Johnson)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All Falls Down (ft. Syleena Jonson)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/08_All_Falls_Down_(ft._Syleena_Jonson)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Adelitas Way",
+      "has_synced": true,
+      "path": "select/09_All_Falls_Down_Adelitas_Way.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All Falls Down (Steve Aoki Remix)",
+      "artist": "Alan Walker feat. Noah Cyrus & Digital Farm Animals",
+      "has_synced": true,
+      "path": "select/10_All_Falls_Down_(Steve_Aoki_Remix)_Alan_Walker_feat._Noah_Cyrus_&_Digital_Farm_Animals.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "All Falls Down (Steve Aoki Remix)",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/11_All_Falls_Down_(Steve_Aoki_Remix)_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "All Falls Down (feat. Juliander) - Sped up Remix",
+      "artist": "Alan Walker feat. Noah Cyrus, Digital Farm Animals & Juliander",
+      "has_synced": true,
+      "path": "select/12_All_Falls_Down_(feat._Juliander)_-_Sped_up_Remix_Alan_Walker_feat._Noah_Cyrus,_Digital_Farm_Animals_&_Juliander.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Falls Down (feat. Juliander)",
+      "artist": "Alan Walker/Noah Cyrus/Digital Farm Animals/Juliander",
+      "has_synced": true,
+      "path": "select/13_All_Falls_Down_(feat._Juliander)_Alan_Walker_Noah_Cyrus_Digital_Farm_Animals_Juliander.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker feat. Noah Cyrus & Digital Farm Animals",
+      "has_synced": true,
+      "path": "select/14_All_Falls_Down_Alan_Walker_feat._Noah_Cyrus_&_Digital_Farm_Animals.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "All Falls Down (feat. Noah Cyrus and Digital Farm Animals)",
+      "artist": "Alan Walker",
+      "has_synced": true,
+      "path": "select/15_All_Falls_Down_(feat._Noah_Cyrus_and_Digital_Farm_Animals)_Alan_Walker.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Alan Walker, Noah Cyrus & Digital Farm Animals",
+      "has_synced": true,
+      "path": "select/16_All_Falls_Down_Alan_Walker,_Noah_Cyrus_&_Digital_Farm_Animals.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Kanye West feat. Syleena Johnson",
+      "has_synced": true,
+      "path": "select/17_All_Falls_Down_Kanye_West_feat._Syleena_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "All Falls Down (ft. Syleena Johnson)",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/18_All_Falls_Down_(ft._Syleena_Johnson)_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/19_All_Falls_Down_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "All Falls Down",
+      "artist": "TV on the Radio",
+      "has_synced": true,
+      "path": "select/20_All_Falls_Down_TV_on_the_Radio.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "All Falls Down",
+      "artist": "Alan Walker, ノア・サイラス & Digital Farm Animals",
+      "has_synced": false,
+      "path": "select/pl_01_All_Falls_Down_Alan_Walker,_ノア・サイラス_&_Digital_Farm_Animals.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "All Falls Down",
+      "artist": "Alan Walker, ノア・サイラス & Digital Farm Animals",
+      "has_synced": false,
+      "path": "select/pl_02_All_Falls_Down_Alan_Walker,_ノア・サイラス_&_Digital_Farm_Animals.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "All Falls Down",
+      "artist": "Alan Walker, ノア・サイラス & Digital Farm Animals",
+      "has_synced": false,
+      "path": "select/pl_03_All_Falls_Down_Alan_Walker,_ノア・サイラス_&_Digital_Farm_Animals.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "All Falls Down",
+      "artist": "Alan Walker, ノア・サイラス & Digital Farm Animals",
+      "has_synced": false,
+      "path": "select/pl_04_All_Falls_Down_Alan_Walker,_ノア・サイラス_&_Digital_Farm_Animals.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "All Falls Down",
+      "artist": "Alan Walker, ノア・サイラス & Digital Farm Animals",
+      "has_synced": false,
+      "path": "select/pl_05_All_Falls_Down_Alan_Walker,_ノア・サイラス_&_Digital_Farm_Animals.txt"
+    }
+  ]
+}
